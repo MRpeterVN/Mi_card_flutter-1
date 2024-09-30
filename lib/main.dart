@@ -19,7 +19,7 @@ class MyApp  extends StatelessWidget {
               backgroundImage: AssetImage('images/milk-box.png'),
 
             ),
-            Text('Le Anh Thu', style: TextStyle(
+            Text('Le Truong An', style: TextStyle(
               fontFamily: 'Pacifico',
               fontSize: 40.0,
               fontWeight: FontWeight.bold,
@@ -46,7 +46,7 @@ class MyApp  extends StatelessWidget {
                   leading: Icon(Icons.phone,
                       color: Colors.teal),
                   title: Text(
-                    '+123456789',
+                    '+859283912',
                     style: TextStyle(
                         color: Colors.teal.shade900,
                         fontFamily: 'Roboto',
@@ -64,7 +64,7 @@ class MyApp  extends StatelessWidget {
                 leading: Icon(Icons.email,
                     color: Colors.teal),
                 title: Text(
-                  'thule@gmail.com',
+                  'truongan195@gmail.com',
                   style: TextStyle(
                       color: Colors.teal.shade900,
                       fontFamily: 'Roboto',
